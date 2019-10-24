@@ -12,7 +12,7 @@
             <Image Source="bus3.jpg" Aspect="AspectFill"></Image>
             <BoxView Color="Gray" Opacity="0.8"></BoxView>
 
-            <Grid>
+            <Grid Padding="0,80,0,0">
                 <Grid.RowDefinitions>
                     <RowDefinition Height="auto"></RowDefinition>
                     <RowDefinition Height="*"></RowDefinition>
@@ -38,9 +38,10 @@
                                FontAttributes="Bold"> </Label>
                     </StackLayout>
                     <StackLayout Grid.Row="2" HorizontalOptions="Center" Padding="0,50,0,0">
-                        <Label Text="Iniciar sesion con" HorizontalOptions="Center" FontAttributes="Bold"></Label>
+                      <!--<Label Text="Iniciar sesion con" HorizontalOptions="Center" FontAttributes="Bold"></Label>--> 
+                        
                                
-                                <StackLayout Orientation="Horizontal" >
+                                <StackLayout Orientation="Horizontal">
                             
                         </StackLayout>
                         

@@ -139,4 +139,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\facebook.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\google.png" />
+  </ItemGroup>
 </Project>
