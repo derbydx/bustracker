@@ -1,13 +1,13 @@
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\LoginTest.deps.json
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\LoginTest.dll
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\bin\Debug\netstandard2.0\LoginTest.pdb
+C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.csprojAssemblyReference.cache
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\Registro.xaml.g.cs
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.csproj.CoreCompileInputs.cache
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.AssemblyInfoInputs.cache
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.AssemblyInfo.cs
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.dll
 C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.pdb
-C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\LoginTest.csprojAssemblyReference.cache
-C:\Users\Tau\source\repos\LoginTest\LoginTest\LoginTest\obj\Debug\netstandard2.0\Registro.xaml.g.cs

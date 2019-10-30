@@ -17,5 +17,9 @@ namespace LoginTest
         {
             InitializeComponent();
         }
+        public void OnButtonRegister(object o, EventArgs e)
+        {
+            Navigation.PushModalAsync (new Registro());
+        }
     }
 }
